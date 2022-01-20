@@ -1,6 +1,6 @@
 # TitansCrypto
 
-Imtihon uchun yozgan dasturim.   
+Imtihon uchun jamoaviy yozgan dasturimiz.   
 
 ## Dastur Haqida
 ### Dasturning ishlash holati 👇
